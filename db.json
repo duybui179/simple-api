@@ -20,6 +20,7 @@
   "showList": [
     {
       "id": 1,
+      "guideText": "Scan the image",
       "content": [
         {
           "id": "101",
@@ -37,6 +38,7 @@
     },
     {
       "id": 2,
+      "guideText": "Scan the image",
       "content": [
         {
           "id": "101",
