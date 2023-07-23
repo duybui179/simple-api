@@ -1,60 +1,42 @@
 {
-  "projects": {
-    "projectList": [
-      {
-        "id": 1,
-        "headerImage": "https://picsum.photos/272/512",
-        "headerDate": "2023-07-07",
-        "headerText": "hello",
-        "contentText": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
-      },
-      {
-        "id": 2,
-        "headerImage": "https://picsum.photos/272/512",
-        "headerDate": "2023-07-07",
-        "headerText": "hello2",
-        "contentText": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
-      }
-    ]
-  },
-  "show": {
-    "showList": [
-      {
-        "id": 1,
-        "content": [
-          {
-            "id": 101,
-            "trackingImage": "https://firebasestorage.googleapis.com/v0/b/pop-ar.appspot.com/o/img-track%2Fone.png?alt=media&token=5ae27362-48bf-43a2-83e8-9a3eab2e4fb0",
-            "contentAndroid": "https://firebasestorage.googleapis.com/v0/b/pop-ar.appspot.com/o/assets%2Fsatyr.android.bin?alt=media&token=4a1e9683-c54c-4be5-91d1-b2133983ada9",
-            "contentIos": "https://firebasestorage.googleapis.com/v0/b/pop-ar.appspot.com/o/assets%2Fsatyr.android.bin?alt=media&token=4a1e9683-c54c-4be5-91d1-b2133983ada9"
-          },
-          {
-            "id": 102,
-            "trackingImage": "https://firebasestorage.googleapis.com/v0/b/pop-ar.appspot.com/o/img-track%2Fone.png?alt=media&token=5ae27362-48bf-43a2-83e8-9a3eab2e4fb0",
-            "contentAndroid": "https://firebasestorage.googleapis.com/v0/b/pop-ar.appspot.com/o/assets%2Fsatyr.android.bin?alt=media&token=4a1e9683-c54c-4be5-91d1-b2133983ada9",
-            "contentIos": "https://firebasestorage.googleapis.com/v0/b/pop-ar.appspot.com/o/assets%2Fsatyr.android.bin?alt=media&token=4a1e9683-c54c-4be5-91d1-b2133983ada9"
-          }
-        ]
-      },
-      {
-        "id": 1,
-        "content": [
-          {
-            "id": 101,
-            "trackingImage": "https://firebasestorage.googleapis.com/v0/b/pop-ar.appspot.com/o/img-track%2Fone.png?alt=media&token=5ae27362-48bf-43a2-83e8-9a3eab2e4fb0",
-            "contentAndroid": "https://firebasestorage.googleapis.com/v0/b/pop-ar.appspot.com/o/assets%2Fsatyr.android.bin?alt=media&token=4a1e9683-c54c-4be5-91d1-b2133983ada9",
-            "contentIos": "https://firebasestorage.googleapis.com/v0/b/pop-ar.appspot.com/o/assets%2Fsatyr.android.bin?alt=media&token=4a1e9683-c54c-4be5-91d1-b2133983ada9"
-          },
-          {
-            "id": 102,
-            "trackingImage": "https://firebasestorage.googleapis.com/v0/b/pop-ar.appspot.com/o/img-track%2Fone.png?alt=media&token=5ae27362-48bf-43a2-83e8-9a3eab2e4fb0",
-            "contentAndroid": "https://firebasestorage.googleapis.com/v0/b/pop-ar.appspot.com/o/assets%2Fsatyr.android.bin?alt=media&token=4a1e9683-c54c-4be5-91d1-b2133983ada9",
-            "contentIos": "https://firebasestorage.googleapis.com/v0/b/pop-ar.appspot.com/o/assets%2Fsatyr.android.bin?alt=media&token=4a1e9683-c54c-4be5-91d1-b2133983ada9"
-          }
-        ]
-      }
-    ]
-  },
+  "project": [
+    {
+      "id": 1,
+      "headerImage": "https://fastly.picsum.photos/id/724/272/512.jpg?hmac=laIzv4l7SpInCBmyHDkOlYKaAZngxS2cg1yoThJ-UUw",
+      "headerDate": "2023-07-07",
+      "headerText": "hello",
+      "contentText": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
+    },
+    {
+      "id": 2,
+      "headerImage": "https://fastly.picsum.photos/id/675/272/512.jpg?hmac=EOTfxqcs5nK9l2IBgCN7GQ6ddNrmi4P7qSigI8abaj0",
+      "headerDate": "2023-07-07",
+      "headerText": "hello2",
+      "contentText": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+    }
+  ],
+  "show": [
+    {
+      "id": 1,
+      "content": [
+        {
+          "trackingImage": "https://firebasestorage.googleapis.com/v0/b/pop-ar.appspot.com/o/img-track%2Fone.png?alt=media&token=5ae27362-48bf-43a2-83e8-9a3eab2e4fb0",
+          "contentAndroid": "https://firebasestorage.googleapis.com/v0/b/pop-ar.appspot.com/o/assets%2Fsatyr.android.bin?alt=media&token=4a1e9683-c54c-4be5-91d1-b2133983ada9",
+          "contentIos": "https://firebasestorage.googleapis.com/v0/b/pop-ar.appspot.com/o/assets%2Fsatyr.android.bin?alt=media&token=4a1e9683-c54c-4be5-91d1-b2133983ada9"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "content": [
+        {
+          "trackingImage": "https://firebasestorage.googleapis.com/v0/b/pop-ar.appspot.com/o/img-track%2Fone.png?alt=media&token=5ae27362-48bf-43a2-83e8-9a3eab2e4fb0",
+          "contentAndroid": "https://firebasestorage.googleapis.com/v0/b/pop-ar.appspot.com/o/assets%2Fsatyr.android.bin?alt=media&token=4a1e9683-c54c-4be5-91d1-b2133983ada9",
+          "contentIos": "https://firebasestorage.googleapis.com/v0/b/pop-ar.appspot.com/o/assets%2Fsatyr.android.bin?alt=media&token=4a1e9683-c54c-4be5-91d1-b2133983ada9"
+        }
+      ]
+    }
+  ],
   "profile": {
     "name": "api-present"
   }
